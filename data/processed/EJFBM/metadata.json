@@ -1,0 +1,135 @@
+{
+  "video": "EJFBM.mp4",
+  "frames": [
+    {
+      "index": 0,
+      "ts": 0.0,
+      "path": "data\\processed\\EJFBM\\frame_0000.jpg"
+    },
+    {
+      "index": 1,
+      "ts": 1.0,
+      "path": "data\\processed\\EJFBM\\frame_0001.jpg"
+    },
+    {
+      "index": 2,
+      "ts": 2.0,
+      "path": "data\\processed\\EJFBM\\frame_0002.jpg"
+    },
+    {
+      "index": 3,
+      "ts": 3.0,
+      "path": "data\\processed\\EJFBM\\frame_0003.jpg"
+    },
+    {
+      "index": 4,
+      "ts": 4.0,
+      "path": "data\\processed\\EJFBM\\frame_0004.jpg"
+    },
+    {
+      "index": 5,
+      "ts": 5.0,
+      "path": "data\\processed\\EJFBM\\frame_0005.jpg"
+    },
+    {
+      "index": 6,
+      "ts": 6.0,
+      "path": "data\\processed\\EJFBM\\frame_0006.jpg"
+    },
+    {
+      "index": 7,
+      "ts": 7.0,
+      "path": "data\\processed\\EJFBM\\frame_0007.jpg"
+    },
+    {
+      "index": 8,
+      "ts": 8.0,
+      "path": "data\\processed\\EJFBM\\frame_0008.jpg"
+    },
+    {
+      "index": 9,
+      "ts": 9.0,
+      "path": "data\\processed\\EJFBM\\frame_0009.jpg"
+    },
+    {
+      "index": 10,
+      "ts": 10.0,
+      "path": "data\\processed\\EJFBM\\frame_0010.jpg"
+    },
+    {
+      "index": 11,
+      "ts": 11.0,
+      "path": "data\\processed\\EJFBM\\frame_0011.jpg"
+    },
+    {
+      "index": 12,
+      "ts": 12.0,
+      "path": "data\\processed\\EJFBM\\frame_0012.jpg"
+    },
+    {
+      "index": 13,
+      "ts": 13.0,
+      "path": "data\\processed\\EJFBM\\frame_0013.jpg"
+    },
+    {
+      "index": 14,
+      "ts": 14.0,
+      "path": "data\\processed\\EJFBM\\frame_0014.jpg"
+    },
+    {
+      "index": 15,
+      "ts": 15.0,
+      "path": "data\\processed\\EJFBM\\frame_0015.jpg"
+    },
+    {
+      "index": 16,
+      "ts": 16.0,
+      "path": "data\\processed\\EJFBM\\frame_0016.jpg"
+    },
+    {
+      "index": 17,
+      "ts": 17.0,
+      "path": "data\\processed\\EJFBM\\frame_0017.jpg"
+    },
+    {
+      "index": 18,
+      "ts": 18.0,
+      "path": "data\\processed\\EJFBM\\frame_0018.jpg"
+    },
+    {
+      "index": 19,
+      "ts": 19.0,
+      "path": "data\\processed\\EJFBM\\frame_0019.jpg"
+    },
+    {
+      "index": 20,
+      "ts": 20.0,
+      "path": "data\\processed\\EJFBM\\frame_0020.jpg"
+    },
+    {
+      "index": 21,
+      "ts": 21.0,
+      "path": "data\\processed\\EJFBM\\frame_0021.jpg"
+    },
+    {
+      "index": 22,
+      "ts": 22.0,
+      "path": "data\\processed\\EJFBM\\frame_0022.jpg"
+    },
+    {
+      "index": 23,
+      "ts": 23.0,
+      "path": "data\\processed\\EJFBM\\frame_0023.jpg"
+    },
+    {
+      "index": 24,
+      "ts": 24.0,
+      "path": "data\\processed\\EJFBM\\frame_0024.jpg"
+    },
+    {
+      "index": 25,
+      "ts": 25.0,
+      "path": "data\\processed\\EJFBM\\frame_0025.jpg"
+    }
+  ]
+}

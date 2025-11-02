@@ -1,0 +1,50 @@
+{
+  "video": "EJFBM.mp4",
+  "generated_at": "2025-11-02T12:42:55.712180+00:00",
+  "summaries": [
+    {
+      "start": 0.0,
+      "end": 40.0,
+      "summary": "a small room with a bed and a television a woman sitting on a couch in a living room a woman sitting on a bed in a room a woman sitting on a couch in a living room a woman sitting on a couch in a living room a small bedroom with a bed and a television a woman sitting on a bed in a room a woman standing in a bedroom next to a bed a small bedroom with a bed and a television",
+      "evidence": [
+        {
+          "ts": 0.0,
+          "caption": "a small room with a bed and a television"
+        },
+        {
+          "ts": 10.0,
+          "caption": "a woman sitting on a couch in a living room"
+        },
+        {
+          "ts": 19.0,
+          "caption": "a woman sitting on a bed in a room"
+        },
+        {
+          "ts": 10.0,
+          "caption": "a woman sitting on a couch in a living room"
+        },
+        {
+          "ts": 18.0,
+          "caption": "a woman sitting on a couch in a living room"
+        },
+        {
+          "ts": 25.0,
+          "caption": "a small bedroom with a bed and a television"
+        },
+        {
+          "ts": 20.0,
+          "caption": "a woman sitting on a bed in a room"
+        },
+        {
+          "ts": 22.0,
+          "caption": "a woman standing in a bedroom next to a bed"
+        },
+        {
+          "ts": 25.0,
+          "caption": "a small bedroom with a bed and a television"
+        }
+      ],
+      "confidence": 0.0
+    }
+  ]
+}
