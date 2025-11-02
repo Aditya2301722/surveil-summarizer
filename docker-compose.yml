@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  app:
+    build: .
+    image: surveil-summarizer:dev
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./reports.db:/app/reports.db
+    environment:
+      - REPORTS_DB=/app/reports.db
